@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="crawl-letter.gif" alt="gif do perfil" />
+  <img src="crawl-letter.gif" width="100%" alt="gif do perfil" />
 </div>
 
 ###
